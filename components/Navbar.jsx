@@ -12,7 +12,7 @@ const Navbar = () => {
     <div className='navbar-container'>
         <p className='logo'>
             <Link href='/'>
-                Totes Unique Audio Projectors
+                FIGGS BOSON
             </Link>
         </p>
 
