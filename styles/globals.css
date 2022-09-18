@@ -129,7 +129,7 @@ width: 100%;
 }
 
 .hero-banner-container{
-  padding: 100px 40px;
+  padding: 70px 40px;
   background-color: #dcdcdc;
   border-radius: 15px;
   position: relative;
@@ -147,7 +147,7 @@ width: 100%;
   background-color: #f02d34;
   color: white;
   border: none;
-  margin-top: 40px;
+  margin-top: 20px;
   font-size: 18px;
   font-weight: 500;
   cursor: pointer;
@@ -160,7 +160,7 @@ width: 100%;
 }
 .hero-banner-container h1{
   color: white;
-  font-size: 10em;
+  font-size: 9em;
   margin-left: -20px;
   text-transform: uppercase;
 }
