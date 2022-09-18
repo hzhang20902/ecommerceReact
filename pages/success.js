@@ -25,8 +25,8 @@ const Success = () => {
             <p className='email-msg'>A reciept has been sent to your email.</p>
             <p className='description'>
                 For any questions or concerns, reach out to our customer care team at
-                <a className='email' href='mailto:order@exmaple.com'>
-                    order@exmaple.com
+                <a className='email' href='mailto:order@example.com'>
+                    order@example.com
                 </a>
             </p>
             <Link href='/'>

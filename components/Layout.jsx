@@ -7,7 +7,7 @@ const Layout = ( {children} ) => {
   return (
     <div className='layout'>
         <Head>
-            <title>Totally Unique Audio Projectors</title>
+            <title>Totally Unique Audio</title>
         </Head>
         <header>
             <Navbar />
