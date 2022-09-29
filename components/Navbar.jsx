@@ -12,16 +12,16 @@ const Navbar = () => {
     <div className='navbar-container'>
         <p className='logo'>
             <Link href='/'>
-              HOME
+              HOME |
             </Link>
             <Link href='https://minecraft3clone-g8o6.vercel.app/'>
-              | Minecraft React/3js Clone (Desktop Only)
+              | Minecraft React/3js Clone (Desktop Only) |
             </Link>
             <Link href='https://effervescent-yeot-a07484.netlify.app/'>
-              | Bottle Express (Video Chat app)
+              | Bottle Express (Video Chat app) |
             </Link>
             <Link href='https://account.venmo.com/u/figgsboson'>
-              | SUPPORT MY WORK
+              | SUPPORT MY WORK |
             </Link>
         </p>
 
