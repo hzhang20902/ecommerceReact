@@ -21,7 +21,7 @@ const Navbar = () => {
               | Bottle Express (Video Chat app) |
             </Link>
             <Link href='https://account.venmo.com/u/figgsboson'>
-              | SUPPORT MY WORK |
+              | SUPPORT MY WORK
             </Link>
         </p>
 
